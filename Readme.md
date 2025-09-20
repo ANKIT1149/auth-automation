@@ -153,6 +153,7 @@ New Languages: Launch separate extensions for Python/Django, Next.js, and Java/S
 Combined Extension: Build a unified auth-automation extension for all stacks.
 Advanced Features: Support OAuth, auto-generate tests, and add a VS Code sidebar UI.
 Community: Open-source the project and create a template marketplace.
+Test AI PR Reviewer
 
 #License
 MIT License – feel free to use, modify, and share!
