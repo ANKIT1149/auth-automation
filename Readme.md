@@ -3,7 +3,7 @@
 Yo, tired of writing the same Node.js authentication boilerplate for every project? The Node.js Auth Automation VS Code extension is here to save the day! With a single shortcut key (Ctrl+Alt+A), it sets up a complete, secure auth system using Express, Mongoose, and JWT in seconds. No more manual coding of user models, routes, or middleware—just focus on building your app’s killer features.
 Built by a 17-year-old developer (yep, that’s me, with 750+ installs on my aryansh > Auto Formatter), this extension is for developers who want to skip the repetitive stuff and get to the good part of coding.
 
-#Feature
+#Features
 
 One-Click Setup: Trigger auth setup with Ctrl+Alt+A or the Command Palette.
 
