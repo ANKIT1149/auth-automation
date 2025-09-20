@@ -5,7 +5,7 @@ Built by a 17-year-old developer (yep, that’s me, with 750+ installs on my ary
 
 #Features
 
-One-Click Setup: Trigger auth setup with Ctrl+Alt+A or the Command Palette.
+One-Clicks Setup: Trigger auth setup with Ctrl+Alt+A or the Command Palette.
 
 Give Answer of prompt that you want in your package.json
 
